@@ -1,0 +1,4 @@
+name = "ores-otel-desktop-app.rs"
+kind = "desktop-app"
+version = "0.1.0"
+
