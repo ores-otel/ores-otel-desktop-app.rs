@@ -4,5 +4,5 @@ pub mod app;
 pub mod config;
 pub mod net;
 pub mod state;
+pub mod telemetry;
 pub mod ui;
-
